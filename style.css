@@ -2,14 +2,7 @@
 *{
  margin:0;
 }
-.middle{
-    height: 200px;
-   position: relative;
-   height: 500px;
-    
-   
-    background-image: linear-gradient(to top right , red, yellow,green);
-}
+
 .img-div{
     width: 600px;
     height: 400px;
