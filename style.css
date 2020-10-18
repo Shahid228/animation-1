@@ -1,4 +1,7 @@
 
+*{
+ margin:0;
+}
 .middle{
     height: 200px;
    position: relative;
